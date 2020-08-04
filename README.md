@@ -1,7 +1,7 @@
 # Back-End
 
 ## Product Description
-Weigh Lifting Journal is a web-based application taht allows users to register and keep track of their weight lifting progress. <br>
+Weigh Lifting Journal is a web-based application that allows users to register and keep track of their weight lifting progress. <br>
 Once a user is registered, they will be able to login and add journal entries, Update their info (age, weight, height, etc.), and update their entries.
 
 
